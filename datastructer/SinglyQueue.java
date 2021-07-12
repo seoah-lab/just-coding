@@ -51,7 +51,7 @@ class Queue<T> {
     }
 }
 
-public class QueueTest {
+public class SinglyQueue {
     public static void main(String[] args) {
         Queue<Integer> q = new Queue<Integer>();
         q.add(1);
