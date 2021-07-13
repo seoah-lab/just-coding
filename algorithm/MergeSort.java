@@ -1,6 +1,3 @@
-import java.util.Arrays;
-
-
 /** 
  * O(n log n) 검색영역이 반씩 줄어들기 때문에 log n
  * 별도의 저장 공간을 사용한다. 
