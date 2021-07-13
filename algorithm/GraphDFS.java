@@ -3,7 +3,6 @@ import java.util.NoSuchElementException;
 import java.util.Stack;
 
 class Queue<T> {
-
     class Node<T> {
         private T data;
         private Node<T> next;
