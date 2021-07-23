@@ -1,3 +1,6 @@
+import Node;
+
+package linkedlist;
 /**
  * array 는 크기가 정해진다. 검색이 빠르다.
  * list 는 링크를 추가/삭제 하는 것으로 크기를 조작하기 쉽다. 검색은 순서대로 
