@@ -1,4 +1,4 @@
-import Node;
+import tree.Node;
 
 package linkedlist;
 /**
