@@ -1,8 +1,6 @@
 package tree;
 import java.util.NoSuchElementException;
 
-import Queue;
-
 class Queue<T> {
 
     class Node<T> {
