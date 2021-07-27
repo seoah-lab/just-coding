@@ -1,3 +1,4 @@
+package tree;
 class ArrayToTree {
     class Node{
         int data;
